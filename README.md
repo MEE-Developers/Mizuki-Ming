@@ -10,6 +10,8 @@ A Chinese sans-serif font derived from IPAex Mincho and IPAmj Mincho. 「IPAex�
 
 [![最新版](https://img.shields.io/github/v/release/enderseven1/Mizuki-Ming.svg?style=flat-square)](https://github.com/enderseven1/Mizuki-Ming/releases/latest)
 [![猫啃网](https://shields.io/badge/%E7%8C%AB%E5%95%83%E7%BD%91-fe5e52?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAfCAMAAABeSlSAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHyUExURQAAAAAA//8AAAAA//8AAAAA/wAA//8AAAAA//8AAAAA//8A//8AAAAA//8AAAAA//8AAAAA/wD///8AAAD/////AAD/////AP//AP//////AAD/////AAD/////AP///wD/////AP//AP//////AP//////AP///wD//////wD//wD/////////AP///wD//wD//wD/////AP///////////wD/////AP///wD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f////39/f39/f39/f39/f39/f7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v////7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v///y6UHskAAACldFJOUwADAwQEBQYGBwcICAkLCwwMDQ0NDhESEhMWFxgYGRkbHBwdHR8hIyQlJygpKSwsLS4yMjQ1Njc3ODk6PD5BQkNFRkdNUFFTVldaXF1fYGdqbnBxcnZ4eXt8gIGEhYaJio6RkpWXmJqbnJ2goqOlpqirrrCxs7S1trm7vr/BwsTHyMvMzc/Q0tPU2Nrb3N3f4uTm5+jp6+zt7vDx8vP19vf4+/z9/iyQxCoAAAAJcEhZcwAAFxEAABcRAcom8z8AAAHPSURBVDhPvZDpOxtRFIdvCJ1olaCLoqW1BF1U2tpJSlpFiK17NNE1DbGVoFVL20TRoMFUDDKS83+6Z+6tJjx9Hp+8X+b+fued88xcckLcmnl9nR8PkfVizoDPewHYcRYqVRQZr0TYfYinii0A2LReVOoDEiwrtN5txPNtMTj2B8BTH6OMGHc/A0huaduEoXg52FwwIEPY+7a1+opalV5uts/KEPp0s07aqkIj2wMv1XHmDbo0AqlTQ9rklRtoJI3DWLJ+MsxHf5mtFT7A98toCG/A9/jQBkR6/gNGzqJBLHu8O4pVrRgGiecjBJsUgeiWWPYNOtwBWk99dHlZs17KDO24Ep3nVHdMlV7ffaNRI/SEsPLkMENwYApUkUfb0K/XW0N7XTElv7GbSGZGghOTWBpno29dpT8PfWd0vxQjlRmJw8yItwPM52onAPq5MX3huIbw/n8GvzBC75+mzbJIo3iZVuFn7MIIKcIX5I7TEUZLkFb+ci6Q2G5cstrQC7CQf/4rgKtmEVfYNFwgJO0dXpAs0vbLKLXFHRrBfYmPkZQe3BpFyJXJhwxV/Tc+4fw0n+KjA+Ibhvx8CmvDjf8+IYprJsuTp+0P8ng8OQjZB5l3H1123DZyAAAAAElFTkSuQmCC)](https://www.maoken.com/freefonts/21352.html)
+[![zitidi](https://shields.io/badge/%E5%AD%97%E4%BD%93%E5%B8%9D-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.zitidi.com/thread-267080.htm) 
+[![mfont](https://shields.io/badge/%E5%AD%97%E5%BA%93%E6%98%9F%E7%90%83-fe5e52?style=flat-square&label=%E2%9E%94)](https://www.mfonts.cn/9507.html) 
 
 水木字型交流群：901505967
 
@@ -44,6 +46,9 @@ A Chinese sans-serif font derived from IPAex Mincho and IPAmj Mincho. 「IPAex�
 - 根据 IPA Font License 1.0 有关条款，后续衍生不可使用原始授权程序的名称（包括程式名、档案名、字型名），且须继承原有授权条款（故 IPA Font License 1.0 与 SIL OFL 1.1 不相容）。
 - 有关 IPA Font License 1.0 的其他常见问题，请参阅 [FAQ（日语）](https://moji.or.jp/ipafont/faq/)，需自备翻译工具。
 - 「IPA字型（IPA Font，IPAフォント）」为日本「独立行政法人情报处理推进机构」（简称「IPA」）的注册商标。
+
+## 历史
+在水木明体制作初期，曾作为一点明体的衍生物，由于一点明体字形与水木明体字形相差甚远，故一直得不到完善，后来以霞鹜致宋CL衍生，终于得以完善。
 
 ## 相关资料与工具
 ### 相关资料
