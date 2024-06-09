@@ -36,7 +36,7 @@ A Chinese sans-serif font derived from IPAex Mincho and IPAmj Mincho. 「IPAex�
 
 目前「霞鹜致宋」包含 IICore 所收录的 9810 个常用汉字，以及原始授权字型「IPAex 明朝」所包含的 JIS 第 1～4 级别汉字，和[「jf 7000 当务字集」](https://justfont.com/jf7000)基本包所收字。而水木明体在此基础上，补充了一些雅名用字、补齐了元素周期表。
 ## 后续计划
-「水木明体变体/水木明體變體/Mizuki-Ming-Var/水木明朝変態」将在后续发布，该版本将一些旧字形改为新字形（保留印刷体特征），以至于不会造成认读错误。
+「水木明体变体/水木明體變體/Mizuki-Ming-Var/水木明朝変態」将在后续发布，该版本将摒弃特殊字形，仅保留一般特征（直点、挑捺、八屋根、断笔等），减少纯G标用户阅读压力。
 
 ## 获取字型
 进入 [Releases](https://github.com/enderseven1/Mizuki-Ming/releases) 页面下载 TTF 格式字型档案。
