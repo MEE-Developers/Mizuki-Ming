@@ -56,6 +56,7 @@ A Chinese sans-serif font derived from IPAex Mincho and IPAmj Mincho. 「IPAex�
 变体版本：躁动、LXGW
 总策划：岛田水木
 字形提供：一点字坊、LXGW
+其他字形建议：世缘哥（户、萨字）、Martin（拉丁字母连字）、躁动（改善部分笔画）
 
 ## 相关资料与工具
 ### 相关资料
