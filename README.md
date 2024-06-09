@@ -51,6 +51,12 @@ A Chinese sans-serif font derived from IPAex Mincho and IPAmj Mincho. 「IPAex�
 ## 历史
 在水木明体制作初期，曾作为一点明体的衍生物，由于一点明体字形与水木明体字形相差甚远，故一直得不到完善，后来以霞鹜致宋CL衍生，终于得以完善。
 
+## 鸣谢名单
+赞助商：FontCreator、供电局、展逸电脑等
+变体版本：躁动、LXGW
+总策划：岛田水木
+字形提供：一点字坊、LXGW
+
 ## 相关资料与工具
 ### 相关资料
 - [原始授权字型 IPA Font](https://moji.or.jp/ipafont/)
