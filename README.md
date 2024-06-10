@@ -35,8 +35,6 @@ A Chinese sans-serif font derived from IPAex Mincho and IPAmj Mincho. 「IPAex�
 > 「国际表意文字核心」（International Ideographs Core，IICore）是 CJK 统一表意文字编码的最小子集，包含了两岸四地、日本、南韩、北朝鲜等区域提交的总共 9810 个常用汉字，可用於记忆体容量和输入／输出资源有限的设备，以及／或那些不能使用整套 ISO/IEC 10646 表意文字字集的应用系统。IICore 包含 9706 个基本区汉字、42 个扩展 A 区汉字和 62 个扩展 B 区汉字，於 2003 年 IRG 第 21 次会议提出，2004 年 IRG 第 22 次会议通过。
 
 目前「霞鹜致宋」包含 IICore 所收录的 9810 个常用汉字，以及原始授权字型「IPAex 明朝」所包含的 JIS 第 1～4 级别汉字，和[「jf 7000 当务字集」](https://justfont.com/jf7000)基本包所收字。而水木明体在此基础上，补充了一些雅名用字、补齐了元素周期表。
-## 后续计划
-「水木明体变体/水木明體變體/Mizuki-Ming-Var/水木明朝変態」将在后续发布，该版本将摒弃特殊字形（如幺、令等），仅保留一般特征（直点、挑捺、八屋根、断笔等），减少纯G标用户阅读压力。
 
 ## 获取字型
 进入 [Releases](https://github.com/enderseven1/Mizuki-Ming/releases) 页面下载 TTF 格式字型档案。
@@ -80,6 +78,7 @@ A Chinese sans-serif font derived from IPAex Mincho and IPAmj Mincho. 「IPAex�
 - [字统网](https://zi.tools/)
 ## 更多「水木」系列字型
 - [水木黑体 / Mizuki Gothic](https://github.com/enderseven1/Mizuki-Gothic/)
+- [水木明体变体 / Mizuki Ming Var](https://github.com/enderseven1/Mizuki-Ming-Var/)
 ## 「霞鹜」系列字型
 ### 与本项目有关联的字型
 - [霞鹜致宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
