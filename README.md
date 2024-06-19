@@ -51,6 +51,7 @@ A Chinese sans-serif font derived from IPAex Mincho and IPAmj Mincho. 「IPAex�
 
 ## 鸣谢名单
 > 作者尊重每一位贡献者的成果，虽然本项目与遍黑体项目并无关联，但为了保险起见，被遍黑体列入黑名单的人员将**不会被公开展示**。
+
 赞助商：FontCreator、供电局、展逸电脑等
 变体版本：躁动、LXGW
 总策划：岛田水木
