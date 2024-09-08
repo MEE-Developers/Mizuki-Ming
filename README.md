@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > 
 > - 添字请在 [Issue #4](https://github.com/enderseven1/Mizuki-Ming/issues/4) 反馈，字形调整请在 [Issue #3](https://github.com/enderseven1/Mizuki-Ming/issues/3) 反馈，不要另开议题，以便于整理。
-> - **中考已经结束，将恢复字体制作**
+> - **作者上高中了，要一年速通，字体更新由组织其他成员进行。**
 > - 若需要在网站上使用这款字体，请下载woff/woff2版本，使用教程可自行上网搜寻。
 > - 有关 Magisk 字体模块等手机字体替换有关的问题，我能力有限，我也不知道怎么解决，不要在本项目开议题。
 
